@@ -2,6 +2,10 @@
 h2 {
 display: block;
 font-family: 'JetBrains Mono', monospace;
-  float: left;
+  width: 200px;
+}
+h1 {
+display: block;
+font-family: 'JetBrains Mono', monospace;
   width: 200px;
 }
